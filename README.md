@@ -12,6 +12,11 @@ With QuantumQueue, every pause in your workflow is an opportunity to engage with
 
 ![Uploading DALL·E 2023-12-05 19.49.29 - A futuristic and sleek software interface with a glowing, quantum-inspired motif, without any text. The design should showcase an abstract radar scree.png…]()
 
+## How to run
+- (consider to setup a pythong virtualenv)
+- `pip install -r requirements.txt`
+- `python main.py`
+
 ## The handwritten explanation from which the above was generated:
 
 I want to build on a desktop software that helps knowledge workers to stay in the "flow" when they work.
